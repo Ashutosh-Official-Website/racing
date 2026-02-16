@@ -1,0 +1,7 @@
+{
+  "name": "Neo-Velocity: Afterglow",
+  "description": "A high-octane futuristic anti-gravity racing game set in a neon cyberpunk world. Features hover physics, AI opponents, and a polished holographic UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
